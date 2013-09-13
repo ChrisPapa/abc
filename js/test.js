@@ -4,5 +4,5 @@ var TEST = (function(module) {
 		resultObject.prepend(Date() + '<br/>');
 	};
 
-return module;
+	return module;
 }(TEST || {}));
